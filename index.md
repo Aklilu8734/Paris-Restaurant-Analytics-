@@ -6,7 +6,8 @@ Welcome to my interactive Power BI dashboard project! This analysis dives into r
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Restaurant_Dashboard_overview.png)
+
 
 ---
 
