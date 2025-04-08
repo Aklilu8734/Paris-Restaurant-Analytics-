@@ -77,8 +77,42 @@ The objective of this project is to empower restaurant owners and managers to:
 - Make data-driven operational and strategic decisions
 
 ---
+## 📸 Power BI Report Preview
 
-## 📊 Power BI Report: Restaurant Insights
+Here’s a visual walkthrough of the dashboard pages from my Power BI report:
+
+---
+
+### 📊 Page 1
+![Page 1](report-page1.png)
+
+---
+
+### 📊 Page 2
+![Page 2](report-page2.png)
+
+---
+
+### 📊 Page 3
+![Page 3](report-page3.png)
+
+---
+
+### 📊 Page 4
+![Page 4](report-page4.png)
+
+---
+
+### 📊 Page 5
+![Page 5](report-page5.png)
+
+---
+
+### 📊 Page 6
+![Page 6](report-page6.png)
+
+
+## 📊 Power BI Report in PDF: Restaurant BI
 
 📄 [Click here to view the full Power BI report (PDF)](https://github.com/Aklilu8734/Paris-Restaurant-Analytics-/raw/main/Portfolio__Restaurant_Insights.pdf)
 
