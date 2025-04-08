@@ -49,7 +49,8 @@ To build **interactive dashboards** for restaurant owners and operations manager
 - **GitHub** – version control and collaboration  
 - **Notion** – for team documentation and planning
 
----
+
+--
 
 ## 📦 Dataset Context
 
@@ -77,4 +78,7 @@ The objective of this project is to empower restaurant owners and managers to:
 
 ---
 
-Power BI Project portfolio
+## 📊 Power BI Report: Restaurant Insights
+
+📄 [Click here to view the full Power BI report (PDF)](https://github.com/Aklilu8734/Paris-Restaurant-Analytics-/raw/main/Portfolio__Restaurant_Insights.pdf)
+
